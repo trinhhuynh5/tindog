@@ -1,5 +1,5 @@
 # Tindog
-## Tinder for your beloved canine
+## Tinder for your beloved canines
 Built with HTML5, CSS3, and Bootstrap
 
 Credit to Angela Yu's web development course on Udemy
